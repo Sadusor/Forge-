@@ -1,0 +1,3 @@
+[submodule "OpenViking"]
+    path = OpenViking
+    url = https://github.com/volcengine/OpenViking.git
